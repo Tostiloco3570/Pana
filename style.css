@@ -8,13 +8,13 @@
 
 body{
     background: black;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
 }
 
 .head{
     display: flex;
     width: 80%;
     background: palegreen;
+    justify-content: center;
     position: relative;
 }

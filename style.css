@@ -16,4 +16,5 @@ body{
     display: flex;
     width: 80%;
     background: palegreen;
+    position: relative;
 }

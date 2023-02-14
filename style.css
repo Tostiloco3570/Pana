@@ -15,6 +15,6 @@ body{
     display: flex;
     width: 80%;
     background: palegreen;
-    justify-content: center;
+    align-items: center;
     position: relative;
 }

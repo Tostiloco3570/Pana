@@ -8,11 +8,11 @@
 
 body{
     background: black;
+    justify-content: center;
 }
 
 .head{
     display: flex;
     width: 80%;
-    justify-content: center;
     background: palegreen;
 }

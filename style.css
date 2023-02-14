@@ -9,6 +9,7 @@
 body{
     background: black;
     justify-content: center;
+    align-items: center;
 }
 
 .head{
